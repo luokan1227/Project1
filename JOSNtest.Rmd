@@ -1,8 +1,6 @@
 ---
-title: "JSONtest"
-author: "Kan Luo"
-date: "6/1/2020"
-output: html_document
+layout: post
+title: R markdown post test
 ---
 Test how to put a markdown file in project  
 
