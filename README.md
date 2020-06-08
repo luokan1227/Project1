@@ -416,7 +416,8 @@ skater’s positions can some how affect their pointing efficiency.
 Then we can do a scatter plot on goals vs points by each group. The
 defenseman has largest slope, indicates this group has higher efficiency
 in earning points. Left and right wings are very similar, which are a
-little lower than center position.  
+little lower than center position.
+
 ![](project1_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 Last, we can do a scatter plot of goals vs points of all skaters that
