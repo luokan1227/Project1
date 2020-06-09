@@ -359,8 +359,7 @@ NotGoal ratio in every position.
 ### Bar plot view
 
 Can make a side by side bar graph to compare the number of skaters with
-their sctivation status. We can see most of the skaters were non-active,
-but active and non-active had similar distribution shapes.
+their sctivation status. We can see most of the skaters were non-active.  
 
 ``` r
 g <- ggplot(data = skater_1_small, aes(x=activePlayer)) 
